@@ -21,11 +21,6 @@ from Libro import *
 #  dbbiblioteca.commit()
 # sql = "INSERT INTO clientes (dni, nombre, telefono, domicilio, estado, ISBN) VALUES (%s, %s, %s, %s, %s, %s)"
 # val = [
-#     (24155337, 'Alejandra Marina Magis', 1149921315, 'AV TRIUNVIRATO 4355 5C', 'P', 9781569319727),
-#     (12345678, 'Ahilen Rocio Kesternich', 1132065365, 'TRONADOR 2563', 'P', 9789870400691),
-#     (22365415, 'Cesar Kesternich', 1149921999, 'PACHECO DE MELO 2635 LOCAL', 'D',0),
-#     (20696890, 'David Omar Kesternich', 1149920199, 'PACHECO DE MELO 2635 LOCAL', 'D',0),
-#     (98765432, 'Camila Lit', 1234567890, 'PASEO COLON 123 PB B', 'D',0),
 #     (00000000, 'Cosme Luar Fulanito', 1111111111, 'CORDOBA 123', 'D',0),
 #     (11111111, 'Paula Florencia Cloe', 2222222222, 'PASEO COLON 987 PB 3', 'D',0)
 # ]
