@@ -21,7 +21,6 @@ from Libro import *
 #  dbbiblioteca.commit()
 # sql = "INSERT INTO clientes (dni, nombre, telefono, domicilio, estado, ISBN) VALUES (%s, %s, %s, %s, %s, %s)"
 # val = [
-#     (00000000, 'Cosme Luar Fulanito', 1111111111, 'CORDOBA 123', 'D',0),
 #     (11111111, 'Paula Florencia Cloe', 2222222222, 'PASEO COLON 987 PB 3', 'D',0)
 # ]
 # cur.executemany(sql, val)
